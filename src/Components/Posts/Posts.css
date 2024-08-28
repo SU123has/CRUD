@@ -1,0 +1,15 @@
+.posts-container-post {
+  list-style-type: none;
+  background-color: grey;
+  border: 10px;
+  cursor: pointer;
+}
+
+.posts-container {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 400px;
+  overflow-y: scroll;
+}
